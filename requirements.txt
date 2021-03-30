@@ -1,0 +1,4 @@
+
+fire
+
+opencv-python
